@@ -8,9 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * Created by woniper on 14. 10. 25..
- */
+
 @Entity
 public class User implements Serializable {
 

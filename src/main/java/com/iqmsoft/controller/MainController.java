@@ -15,9 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.iqmsoft.domain.User;
 import com.iqmsoft.service.UserService;
 
-/**
- * spring boot mvc demo
- */
+
 @Controller
 @RequestMapping("/")
 public class MainController {
